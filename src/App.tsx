@@ -7,7 +7,7 @@ import './App.css'
 // GitHub Pages için manifestUrl'yi düzeltiyoruz
 const manifestUrl = window.location.hostname === 'localhost' 
   ? '/tonconnect-manifest.json'
-  : '/diyrocket/tonconnect-manifest.json'
+  : '/DiyRocket/tonconnect-manifest.json'
 
 function App() {
   return (
